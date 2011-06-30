@@ -1,0 +1,11 @@
+body {
+	background: #6e645b;
+}
+
+#timelapse {
+	margin: 0 auto;
+	background: #6e645b url("../img/20.jpg");
+	border: 1px solid black;
+	width: 123px;
+	height: 625px;
+}
